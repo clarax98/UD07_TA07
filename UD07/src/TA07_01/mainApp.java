@@ -1,7 +1,8 @@
+package TA07_01;
 import java.util.Hashtable;
 import javax.swing.JOptionPane;
 
-public class TA07_01 {
+public class mainApp {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
